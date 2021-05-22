@@ -39,5 +39,5 @@ We have incorporated a 3d-model of a game scene from a site “sketchfab.com” 
 We have added a joystick and attacking button on the screen of the mobile phone to control the player movements and attacks.
 
 
-Google Drive of the project:
+Google Drive link of the project:
 https://drive.google.com/drive/folders/1ayOjpfDaT-eF00N3wmzPQlcfz70zjHfB?usp=sharing
