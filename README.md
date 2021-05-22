@@ -24,17 +24,20 @@ We have incorporated a 3d-model of a game scene from a site “sketchfab.com” 
 ## **Scripts:**
 > There are several scripts of visual studios used to control the player movement, zombie movement and the AR system.
 - Player movement script:
+  Through this script we have added player movement using the keys A,D,W,S. Further these keys have been attached to the joystick for the movement of the player using it.
 
 
 ![image](https://user-images.githubusercontent.com/79785530/119209164-ce26c080-bac2-11eb-95a0-848b4ab1e68b.png)
 
 
-- Zombies script:
+- Attack script:
+  This script has been attached to the zombie and allows him to follow the player and attack him when he is at the specified distance. This script bascially uses navigation     component to be completed and also NavMeshagent have been used. 
 
 - Health script:
-
-- Attack and Damage script:
-
+  This script has been attached to both player and the zombie and helps us to attach a health bar to them which depicts their health and also reduces it upon taking damage.
+- Damage script:
+  This script has been attached to zombie's hands and player's sword. It specifies the amount of damage that the player or zombie will take on getting hit by the enemy
+  weapon.
 ## **Joystick and Attack button:**
 We have added a joystick and attacking button on the screen of the mobile phone to control the player movements and attacks.
 
