@@ -10,7 +10,7 @@ This game involves sword fighting with integrated AR experience. Augmented Reali
 ## **Gameplay:**
 The game involves a player having a sword and he has to simply kill the zombies that are coming towards to kill him. The zombies will come towards the player and he has to save him from his sword. There will be a city where all over only zombies are there and our player has to cross that city by killing all the zombies. There will be a total of 7 zombies roaming around in the whole city and the player has to kill all of them in order to complete the level. A timer will also be running and only in that specified time the player has to complete the whole game. 
 
-## **Game construction:**
+## **Game Construction:**
 - We are using C# for the coding part of the game. With this we are controlling the movements, zombies, efficiency, force of the sword, collision, point board, game start, game over, and few others. 
 - We placed an image target using Vuforia engine on to the gamescene. Then we imported a map of the game on placed on the image target.
 - Similarly, we place player and zombies on the map and add scripts for their movement. 
@@ -35,7 +35,7 @@ We have incorporated a 3d-model of a game scene from a site “sketchfab.com” 
 
 - Attack and Damage script:
 
-## **Joystick and attack button:**
+## **Joystick and Attack button:**
 We have added a joystick and attacking button on the screen of the mobile phone to control the player movements and attacks.
 
 
