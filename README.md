@@ -18,7 +18,7 @@ The game involves a player having a sword and he has to simply kill the zombies 
 ## **Gamescene:**
 We have incorporated a 3d-model of a game scene from a site “sketchfab.com” to our AR project. We have also added rigid body component to all the components of the 3d-model.
 
-![image](https://user-images.githubusercontent.com/79785530/119208924-d3cfd680-bac1-11eb-985b-028f33e68cf6.png)
+![image](https://user-images.githubusercontent.com/79785530/119209240-2c53a380-bac3-11eb-889b-fc8e3794e4fe.png)
 
 
 ## **Scripts:**
