@@ -26,6 +26,9 @@ We have incorporated a 3d-model of a game scene from a site “sketchfab.com” 
 - Player movement script:
 
 
+![image](https://user-images.githubusercontent.com/79785530/119209164-ce26c080-bac2-11eb-95a0-848b4ab1e68b.png)
+
+
 - Zombies script:
 
 - Health script:
