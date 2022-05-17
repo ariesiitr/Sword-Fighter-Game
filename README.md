@@ -47,9 +47,12 @@ https://drive.google.com/drive/folders/1ayOjpfDaT-eF00https://youtu.be/WdfStRynC
 
 ## **Referrences**
 Following sources were used for completing the project:
->Vuforia and augmented reality tutorials
--Unity
+>Vuforia and augmented reality tutorials.
+
+-Unity:
+
 https://youtu.be/mjNAPCFaZ9Y
 
--Vuforia
+-Vuforia:
+
 https://youtu.be/WdfStRynCLw
