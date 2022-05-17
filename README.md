@@ -43,6 +43,9 @@ We have added a joystick and attacking button on the screen of the mobile phone 
 
 
 Google Drive link of the project:
-https://drive.google.com/drive/folders/1ayOjpfDaT-eF00N3wmzPQlcfz70zjHfB?usp=sharing
+https://drive.google.com/drive/folders/1ayOjpfDaT-eF00https://youtu.be/WdfStRynCLwN3wmzPQlcfz70zjHfB?usp=sharing
 
 ## **Referrences**
+Following sources were used for completing the project:
+-https://youtu.be/mjNAPCFaZ9Y
+-https://youtu.be/WdfStRynCLw
